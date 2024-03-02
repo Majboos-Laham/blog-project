@@ -12,10 +12,7 @@ module.exports = {
         soft: "#183B56"
       },
     },
-    fontFamily: {
-      opensans: ["'Open Sans'", "sand-serif"],
-      roboto: ["'Roboto'" , "sans-serif"],
-    }
+ 
   },
   },
   plugins: [],
